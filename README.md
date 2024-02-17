@@ -1,2 +1,2 @@
 # Poitic-web2
-Author : Khadija Tasnim 
+Author : Khadija Tasnim  Khushi
